@@ -2,11 +2,7 @@
 gulp详细入门教程
 
 <div class="main-margin">
-    <header class="detail-titile"><h2>gulp详细入门教程</h2>
-        <p class="detail-au-mes"><span>Ooo_My_God<em>发表于</em><time>2015-02-24</time></span> <span>分类：<a
-                href="category/构建工具" class="title-type">构建工具<i></i></a></span> <span>阅读(5533)</span> <span>评论(<a
-                href="18#comments">51</a>)</span></p>
-    </header>
+    <header class="detail-titile"><h2>gulp详细入门教程</h2></header>
     <div class="excerpt"><h3>简介：</h3>
         <p>
             gulp是前端开发过程中对代码进行构建的工具，是自动化项目的构建利器；她不仅能对网站资源进行优化，而且在开发过程中很多重复的任务能够使用正确的工具自动完成；使用她，我们不仅可以很愉快的编写代码，而且大大提高我们的工作效率。</p>
